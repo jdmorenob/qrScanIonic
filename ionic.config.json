@@ -1,0 +1,8 @@
+{
+  "name": "qrscanIonic",
+  "app_id": "d91b41db",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
